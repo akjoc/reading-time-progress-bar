@@ -1,5 +1,6 @@
 === Reading Time and Progress Bar ===
 Contributors: stackwithaman
+Donate link: https://aimactgrow.com/
 Tags: reading time, progress bar, blog, content, scroll
 Requires at least: 5.0
 Tested up to: 5.9
