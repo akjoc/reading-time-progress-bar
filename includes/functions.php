@@ -7,7 +7,7 @@
  * @param string $content The content of the post.
  * @return int The estimated reading time in minutes.
  */
-function rt_calculate_reading_time($content) {
+function rtpb_calculate_reading_time($content) {
     // Remove HTML tags and decode HTML entities
     $content = wp_strip_all_tags($content);
     $content = html_entity_decode($content);
